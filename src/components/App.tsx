@@ -408,7 +408,7 @@ export default function App({ children }: { children: ReactNode }) {
           </div>
           <div className='mt-2 md:mt-0 md:order-1'>
             <p className='text-base leading-6 prose text-center text-gray-400'>
-              &copy; 2020 Made with 🧡 by{' '}
+              &copy; 2021 Made with 🧡 by{' '}
               <a href='https://blog.bhanuteja.dev'>Bhanu Teja</a>.
             </p>
           </div>
