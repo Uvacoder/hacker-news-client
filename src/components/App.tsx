@@ -311,12 +311,12 @@ export default function App({ children }: { children: ReactNode }) {
               />
             </a>
             <a
-              href='https://bhanuteja.dev'
+              href='https://abclinks.vercel.app'
               className='text-gray-400 hover:text-gray-500'
               target='_blank'
             >
               <span className='sr-only'>
-                Bhanu Teja Pachipulusu's Personal Website
+                uvacoder links
               </span>
               <svg
                 className='w-6 h-6'
@@ -334,7 +334,7 @@ export default function App({ children }: { children: ReactNode }) {
               </svg>
             </a>
             <a
-              href='https://hashnode.com/@pbteja1998'
+              href='https://hashnode.com/@uvacoder'
               className='text-gray-400 hover:text-gray-500'
               target='_blank'
               rel='noopener noreferrer nofollow'
@@ -354,7 +354,7 @@ export default function App({ children }: { children: ReactNode }) {
               </svg>
             </a>
             <a
-              href='https://twitter.com/pbteja1998'
+              href='https://twitter.com/VaLandscapes'
               className='text-gray-400 hover:text-gray-500'
               target='_blank'
               rel='noopener noreferrer nofollow'
@@ -370,7 +370,7 @@ export default function App({ children }: { children: ReactNode }) {
               </svg>
             </a>
             <a
-              href='https://github.com/pbteja1998'
+              href='https://github.com/uvacoder'
               className='text-gray-400 hover:text-gray-500'
               target='_blank'
               rel='noopener noreferrer nofollow'
@@ -390,7 +390,7 @@ export default function App({ children }: { children: ReactNode }) {
               </svg>
             </a>
             <a
-              href='https://github.com/pbteja1998'
+              href='https://github.com/uvacoder'
               className='text-gray-400 hover:text-gray-500'
               target='_blank'
               rel='noopener noreferrer nofollow'
@@ -408,8 +408,8 @@ export default function App({ children }: { children: ReactNode }) {
           </div>
           <div className='mt-2 md:mt-0 md:order-1'>
             <p className='text-base leading-6 prose text-center text-gray-400'>
-              &copy; 2021 Made with 🧡 by{' '}
-              <a href='https://blog.bhanuteja.dev'>Bhanu Teja</a>.
+              &copy; 2022 Made with 🧡 by{' '}
+              <a href='https://abclinks.vercel.app'>Me</a>.
             </p>
           </div>
         </div>
